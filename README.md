@@ -24,3 +24,15 @@ The test automates login functionality for the demo website:
 - **Selenium WebDriver**
 - **WebDriverManager**
 - **Eclipse IDE **
+
+Test Scenario
+URL: https://www.saucedemo.com
+Username: standard_user
+Password: secret_sauce
+
+Automates:
+Navigating to the site
+Entering credentials
+Clicking Login
+
+
